@@ -1,0 +1,7 @@
+.git
+node_modules
+vendor
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
